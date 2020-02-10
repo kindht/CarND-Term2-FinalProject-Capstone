@@ -319,9 +319,6 @@ The car can **run well**, **stop** at each red light perfectly, and **continue**
 ## With Camera
 When using image classificaitons, there are some **latency** issues,  the car might not stop perfectly at each red light, it may pass some light even if trying to slow down, or it may run aside from the right track, but **please wait a while**, it could **find its way back** and continue to finish a loop anyway.
 
-Find its way back:
-![](./records/Run/1.way_back.png)
-
 One **good case** for stopping at red light
 ![](./records/Run/2.Camera_red-01.png)
 
