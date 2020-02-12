@@ -327,7 +327,7 @@ One **good case** for stopping at red light
 ![](./records/Run/2.Camera_red-01.png)
 
 # **Test in Real Site**
-Not test yet, hope it can run well on Carla!
+Test done on Carla!
 
 
 
